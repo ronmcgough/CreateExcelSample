@@ -1,2 +1,6 @@
 # CreateExcelSample
-Just a simple sample app to demonstrate how to create an Excel spreadsheet with C#. There are some classes used to simulate reading from something like an OracleDataReader. This was all done to serve as an example for a co-worker who had to create Excel docs in C# webcode.
+**NOTE: This was written in VSCode on Linux.**
+
+Just a simple sample C# app to demonstrate how to create an Excel spreadsheet. This was done to help a co-worker who had to create Excel docs in C# web code.
+
+There are some supporting classes used to simulate reading from something like an OracleDataReader.
