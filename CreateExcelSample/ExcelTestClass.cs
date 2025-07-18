@@ -75,7 +75,7 @@ public class ExcelTestClass
             // Loop through some data and add rows and cells
             foreach (FakeDataRecord rec in dataList)
             {
-                // a row for the DSEMS data
+                // a row for the data
                 Row dataRow = new();
 
                 // CM#
